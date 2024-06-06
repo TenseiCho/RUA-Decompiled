@@ -1,0 +1,5 @@
+[adultswim]
+--- RECORDSEPARATOR ---
+High Scores
+--- RECORDSEPARATOR ---
+component

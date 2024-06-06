@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="shape" height="31.9px" width="26.9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 13.45, 15.95)">
+    <path d="M12.8 -0.15 L12.95 0.0 0.0 15.4 -0.1 -0.05 12.8 -0.15" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M0.0 -15.45 L12.8 -0.15 -0.1 -0.05 -0.2 -15.2 0.0 -15.45" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-12.9 0.0 L-12.95 0.0 -0.2 -15.2 -0.1 -0.05 -12.9 0.0" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    <path d="M0.0 15.4 L0.0 15.45 -12.9 0.0 -0.1 -0.05 0.0 15.4" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    <path d="M12.95 0.0 L0.0 15.4" fill="none" stroke="#a66a95" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M-0.2 -15.2 L-0.1 -0.05" fill="none" stroke="#c6a8bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M-12.95 0.0 L-0.2 -15.2" fill="none" stroke="#bd86b8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M0.0 15.45 L-12.9 0.0" fill="none" stroke="#a25e95" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M-0.1 -0.05 L-12.9 0.0" fill="none" stroke="#b597af" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M-0.1 -0.05 L0.0 15.4" fill="none" stroke="#a782b0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M-0.1 -0.05 L12.8 -0.15" fill="none" stroke="#c0aac4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M0.0 -15.45 L12.8 -0.15" fill="none" stroke="#d2bdd1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0281, 0.0, 0.0, 0.0281, -1.2, -3.0)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.1411764705882353" stop-color="#b178ac" stop-opacity="0.93333334"/>
+      <stop offset="0.4392156862745098" stop-color="#9f74a5" stop-opacity="0.9137255"/>
+      <stop offset="0.8470588235294118" stop-color="#644f97" stop-opacity="0.7529412"/>
+      <stop offset="1.0" stop-color="#605492" stop-opacity="0.101960786"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0248, 0.0, 0.0, 0.0248, 2.4, -3.1)" gradientUnits="userSpaceOnUse" id="gradient1" r="819.2" spreadMethod="pad">
+      <stop offset="0.047058823529411764" stop-color="#ffffff" stop-opacity="0.93333334"/>
+      <stop offset="0.615686274509804" stop-color="#b377ad" stop-opacity="0.93333334"/>
+      <stop offset="0.7843137254901961" stop-color="#6b5195" stop-opacity="0.7529412"/>
+      <stop offset="1.0" stop-color="#665492" stop-opacity="0.101960786"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.025, 0.0, 0.0, 0.025, -1.3, -1.6)" gradientUnits="userSpaceOnUse" id="gradient2" r="819.2" spreadMethod="pad">
+      <stop offset="0.047058823529411764" stop-color="#c79ec4" stop-opacity="0.93333334"/>
+      <stop offset="0.5725490196078431" stop-color="#af7aa5" stop-opacity="0.93333334"/>
+      <stop offset="0.7568627450980392" stop-color="#73568f" stop-opacity="0.7529412"/>
+      <stop offset="1.0" stop-color="#67588d" stop-opacity="0.101960786"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0224, 0.0, 0.0, 0.0224, -0.2, -0.8)" gradientUnits="userSpaceOnUse" id="gradient3" r="819.2" spreadMethod="pad">
+      <stop offset="0.1411764705882353" stop-color="#b377b3" stop-opacity="0.93333334"/>
+      <stop offset="0.6352941176470588" stop-color="#8a5a8b" stop-opacity="0.84313726"/>
+      <stop offset="0.8392156862745098" stop-color="#735e88" stop-opacity="0.7529412"/>
+      <stop offset="1.0" stop-color="#67588d" stop-opacity="0.101960786"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,2 @@
+_root.showFinalScore();
+stop();

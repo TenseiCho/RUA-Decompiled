@@ -1,0 +1,1 @@
+starSpawn._visible = false;

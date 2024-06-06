@@ -1,0 +1,2 @@
+glow.setMask(oval);
+stop();
